@@ -1,2 +1,7 @@
 # curtis-test
-this is a repo for testing GitHub activities
+this is a **repo** for testing GitHub activities
+
+1. you got this
+2. keep it up!
+  
+you can do this
