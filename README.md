@@ -1,4 +1,5 @@
 # curtis-test
+## this is a smaller title
 this is a **repo** for testing GitHub activities
 
 1. you got this
